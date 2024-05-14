@@ -7,7 +7,7 @@ Who doesn't love a good spreadsheet? wat could go wrong...
 
 - [index.php](html/index.php) - The original challenge
 - [index_debug.php](html/index_debug.php) - The original challenge with extra debugging to make it more obvious what's happening with the formulas
-- [index_debug.php](html/index_harder.php) - Harder version of the challenge
+- [index_harder.php](html/index_harder.php) - Harder version of the challenge
 - [poc.html](html/poc.html) - My original PoC exploit, thanks to all those who have shared their solutions and shown me easier ways of doing it!
 
 ## Running
